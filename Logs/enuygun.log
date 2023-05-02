@@ -1,0 +1,480 @@
+2022-06-13 00:34:25 INFO  BasePage:26 - Sayfanın Url'si doğrudur
+2022-06-13 00:34:25 INFO  BasePage:35 - Sayfanın başlığı doğrudur.
+2022-06-13 00:34:25 INFO  HomePage:51 - Nereden kısmınaIstanbulyazılır
+2022-06-13 00:34:25 INFO  HomePage:53 - IstanbulHava Alanı Seçilir
+2022-06-13 00:34:25 INFO  HomePage:55 - Nereden kısmınaAnkarayazılır
+2022-06-13 00:34:25 INFO  HomePage:57 - AnkaraHava Alanı Seçilir.
+2022-06-13 00:34:25 INFO  HomePage:41 - Uçak Bileti Alanı Seçilidir.
+2022-06-13 00:34:25 INFO  BasePage:62 - date'e0gün eklenir
+2022-06-13 00:34:25 INFO  HomePage:66 - Gidis tarihi secilir
+2022-06-13 00:34:26 INFO  BasePage:62 - date'e7gün eklenir
+2022-06-13 00:34:27 INFO  HomePage:74 - Donus tarihi secilir
+2022-06-13 00:34:28 INFO  HomePage:81 - Aktarmasız checkbox'u seçilir ve tiklenir.
+2022-06-13 00:34:29 INFO  HomePage:86 - Yolcu secimine tiklanir.
+2022-06-13 00:34:29 INFO  HomePage:88 - Çocuk yolcu sayısı 1 artırılır
+2022-06-13 00:34:29 INFO  HomePage:90 - Business class seçilir
+2022-06-13 00:34:29 INFO  BasePage:85 - [[ChromeDriver: chrome on WINDOWS (a713ccd30a50b06a42476c21de6f832f)] -> xpath: //*[@data-testid='passengerTypeItem-0']/div[2]/span[text()='1']]element görünürlüğüne bakar
+2022-06-13 00:34:29 INFO  BasePage:87 - [[ChromeDriver: chrome on WINDOWS (a713ccd30a50b06a42476c21de6f832f)] -> xpath: //*[@data-testid='passengerTypeItem-0']/div[2]/span[text()='1']]Element görünür
+2022-06-13 00:34:29 INFO  BasePage:85 - [[ChromeDriver: chrome on WINDOWS (a713ccd30a50b06a42476c21de6f832f)] -> xpath: //*[@data-testid='passengerTypeItem-1']/div[2]/span[text()='1']]element görünürlüğüne bakar
+2022-06-13 00:34:29 INFO  BasePage:87 - [[ChromeDriver: chrome on WINDOWS (a713ccd30a50b06a42476c21de6f832f)] -> xpath: //*[@data-testid='passengerTypeItem-1']/div[2]/span[text()='1']]Element görünür
+2022-06-13 00:34:35 INFO  HomePage:101 - Ucuz bilet bul buttonuna tıklanır
+2022-06-13 00:34:36 INFO  TicketsPage:23 - Pegasus
+SAWESB
+1x15kg
+Direkt Uçuş
+22:20
+⟶
+23:25
+1sa 5dk
+490,99 TL
+Toplam 981,98 TL
+Seç
+Detay
+2022-06-13 00:34:36 INFO  TicketsPage:23 - AnadoluJet
+SAWESB
+1x15kg
+Direkt Uçuş
+Özel Fiyatlı Bilet
+23:00
+⟶
+00:05
+1sa 5dk
+490,99 TL
+Toplam 981,98 TL
+Son 2 koltuk
+Seç
+Detay
+2022-06-13 00:34:36 INFO  TicketsPage:23 - Pegasus
+SAWESB
+1x15kg
+Direkt Uçuş
+16:15
+⟶
+17:20
+1sa 5dk
+529,99 TL
+Toplam 1.059,98 TL
+Seç
+Detay
+2022-06-13 00:34:36 INFO  TicketsPage:23 - Pegasus
+SAWESB
+1x15kg
+Direkt Uçuş
+20:00
+⟶
+21:05
+1sa 5dk
+562,99 TL
+Toplam 1.125,98 TL
+Seç
+Detay
+2022-06-13 00:34:36 INFO  TicketsPage:23 - Pegasus
+SAWESB
+1x15kg
+Direkt Uçuş
+06:20
+⟶
+07:25
+1sa 5dk
+578,99 TL
+Toplam 1.157,98 TL
+Son 3 koltuk
+Seç
+Detay
+2022-06-13 00:34:36 INFO  TicketsPage:23 - AnadoluJet
+SAWESB
+1x15kg
+Direkt Uçuş
+21:05
+⟶
+22:00
+55dk
+602,49 TL
+Toplam 1.204,98 TL
+Seç
+Detay
+2022-06-13 00:34:36 INFO  TicketsPage:23 - AnadoluJet
+SAWESB
+1x15kg
+Direkt Uçuş
+17:35
+⟶
+18:30
+55dk
+687,99 TL
+Toplam 1.375,98 TL
+Son 2 koltuk
+Seç
+Detay
+2022-06-13 00:34:36 INFO  TicketsPage:23 - Pegasus
+SAWESB
+1x15kg
+Direkt Uçuş
+10:30
+⟶
+11:35
+1sa 5dk
+689,49 TL
+Toplam 1.378,98 TL
+Seç
+Detay
+2022-06-13 00:34:36 INFO  TicketsPage:23 - AnadoluJet
+SAWESB
+1x15kg
+Direkt Uçuş
+08:00
+⟶
+08:55
+55dk
+716,49 TL
+Toplam 1.432,98 TL
+Son 2 koltuk
+Seç
+Detay
+2022-06-13 00:34:36 INFO  TicketsPage:23 - Pegasus
+SAWESB
+1x15kg
+Direkt Uçuş
+07:15
+⟶
+08:20
+1sa 5dk
+722,49 TL
+Toplam 1.444,98 TL
+Seç
+Detay
+2022-06-13 00:34:36 INFO  TicketsPage:23 - AnadoluJet
+SAWESB
+1x15kg
+Direkt Uçuş
+10:00
+⟶
+11:00
+1sa
+744,99 TL
+Toplam 1.489,98 TL
+Son 3 koltuk
+Seç
+Detay
+2022-07-07 11:27:56 INFO  BasePage:26 - Sayfanın Url'si doğrudur
+2022-07-07 11:27:56 INFO  BasePage:35 - Sayfanın başlığı doğrudur.
+2022-07-07 11:27:56 INFO  HomePage:51 - Nereden kısmınaIstanbulyazılır
+2022-07-07 11:27:56 INFO  HomePage:53 - IstanbulHava Alanı Seçilir
+2022-07-07 11:27:56 INFO  HomePage:55 - Nereden kısmınaAnkarayazılır
+2022-07-07 11:27:56 INFO  HomePage:57 - AnkaraHava Alanı Seçilir.
+2022-07-07 11:27:56 INFO  HomePage:41 - Uçak Bileti Alanı Seçilidir.
+2022-07-07 11:27:56 INFO  BasePage:62 - date'e0gün eklenir
+2022-07-07 11:32:15 INFO  BasePage:26 - Sayfanın Url'si doğrudur
+2022-07-07 11:32:15 INFO  BasePage:35 - Sayfanın başlığı doğrudur.
+2022-07-07 11:32:15 INFO  HomePage:51 - Nereden kısmınaIstanbulyazılır
+2022-07-07 11:32:15 INFO  HomePage:53 - IstanbulHava Alanı Seçilir
+2022-07-07 11:32:15 INFO  HomePage:55 - Nereden kısmınaAnkarayazılır
+2022-07-07 11:32:24 INFO  BasePage:26 - Sayfanın Url'si doğrudur
+2022-07-07 11:32:24 INFO  BasePage:35 - Sayfanın başlığı doğrudur.
+2022-07-07 11:32:24 INFO  HomePage:51 - Nereden kısmınaIstanbulyazılır
+2022-07-07 11:32:24 INFO  HomePage:53 - IstanbulHava Alanı Seçilir
+2022-07-07 11:32:24 INFO  HomePage:55 - Nereden kısmınaAnkarayazılır
+2022-07-07 11:32:24 INFO  HomePage:57 - AnkaraHava Alanı Seçilir.
+2022-07-07 11:32:24 INFO  HomePage:41 - Uçak Bileti Alanı Seçilidir.
+2022-07-07 11:32:24 INFO  BasePage:62 - date'e0gün eklenir
+2022-07-07 11:32:24 INFO  HomePage:66 - Gidis tarihi secilir
+2022-07-07 11:32:25 INFO  BasePage:62 - date'e7gün eklenir
+2022-07-07 11:32:26 INFO  HomePage:74 - Donus tarihi secilir
+2022-07-07 12:00:44 INFO  BasePage:30 - Sayfanın Url'si doğru değildir.Sayfa açılamadı.
+2022-07-07 12:00:58 INFO  BasePage:30 - Sayfanın Url'si doğru değildir.Sayfa açılamadı.
+2022-07-07 12:01:34 INFO  BasePage:26 - Sayfanın Url'si doğrudur
+2022-07-07 12:01:34 INFO  BasePage:35 - Sayfanın başlığı doğrudur.
+2022-07-07 12:01:34 INFO  HomePage:50 - Nereden kısmınaIstanbulyazılır
+2022-07-07 12:02:03 INFO  BasePage:26 - Sayfanın Url'si doğrudur
+2022-07-07 12:02:03 INFO  BasePage:35 - Sayfanın başlığı doğrudur.
+2022-07-07 12:02:04 INFO  HomePage:50 - Nereden kısmınaIstanbulyazılır
+2022-07-07 12:02:04 INFO  HomePage:52 - IstanbulHava Alanı Seçilir
+2022-07-07 12:02:04 INFO  HomePage:54 - Nereden kısmınaAnkarayazılır
+2022-07-07 13:09:20 INFO  BasePage:29 - Sayfanın Url'si doğru değildir.Sayfa açılamadı.
+2022-07-07 13:09:54 INFO  BasePage:29 - Sayfanın Url'si doğru değildir.Sayfa açılamadı.
+2022-07-07 13:10:46 INFO  BasePage:29 - Sayfanın Url'si doğru değildir.Sayfa açılamadı.
+2022-07-07 13:14:45 INFO  BasePage:29 - Sayfanın Url'si doğru değildir.Sayfa açılamadı.
+2022-07-07 13:16:33 INFO  BasePage:30 - Sayfanın Url'si doğru değildir.Sayfa açılamadı.
+2022-07-07 13:17:00 INFO  BasePage:30 - Sayfanın Url'si doğru değildir.Sayfa açılamadı.
+2022-07-07 13:17:10 INFO  BasePage:27 - Sayfanın Url'si doğrudur
+2022-07-07 13:17:11 INFO  BasePage:38 - Sayfanın başlığı doğrudur.
+2022-07-07 13:18:49 INFO  BasePage:26 - Sayfanın Url'si doğrudur
+2022-07-07 13:18:49 INFO  BasePage:37 - Sayfanın başlığı doğrudur.
+2022-07-07 13:35:22 INFO  BasePage:36 - Sayfanın Url'si doğrudur
+2022-07-07 13:35:22 INFO  BasePage:47 - Sayfanın başlığı doğrudur.
+2022-07-07 13:36:03 INFO  BasePage:36 - Sayfanın Url'si doğrudur
+2022-07-07 13:36:03 INFO  BasePage:47 - Sayfanın başlığı doğrudur.
+2022-07-07 13:37:57 INFO  BasePage:36 - Sayfanın Url'si doğrudur
+2022-07-07 13:37:57 INFO  BasePage:47 - Sayfanın başlığı doğrudur.
+2022-07-07 13:38:44 INFO  BasePage:36 - Sayfanın Url'si doğrudur
+2022-07-07 13:38:44 INFO  BasePage:47 - Sayfanın başlığı doğrudur.
+2022-07-07 13:39:59 INFO  BasePage:36 - Sayfanın Url'si doğrudur
+2022-07-07 13:39:59 INFO  BasePage:47 - Sayfanın başlığı doğrudur.
+2022-07-07 13:40:24 INFO  BasePage:36 - Sayfanın Url'si doğrudur
+2022-07-07 13:40:24 INFO  BasePage:47 - Sayfanın başlığı doğrudur.
+2022-07-07 13:40:35 INFO  BasePage:36 - Sayfanın Url'si doğrudur
+2022-07-07 13:40:35 INFO  BasePage:47 - Sayfanın başlığı doğrudur.
+2022-07-07 13:41:20 INFO  BasePage:36 - Sayfanın Url'si doğrudur
+2022-07-07 13:41:20 INFO  BasePage:47 - Sayfanın başlığı doğrudur.
+2022-07-07 13:44:01 INFO  BasePage:37 - Sayfanın Url'si doğrudur
+2022-07-07 13:44:01 INFO  BasePage:48 - Sayfanın başlığı doğrudur.
+2022-07-07 13:44:07 INFO  BasePage:37 - Sayfanın Url'si doğrudur
+2022-07-07 13:44:07 INFO  BasePage:48 - Sayfanın başlığı doğrudur.
+2022-07-07 13:45:22 INFO  BasePage:37 - Sayfanın Url'si doğrudur
+2022-07-07 13:45:22 INFO  BasePage:48 - Sayfanın başlığı doğrudur.
+2022-07-07 16:12:39 INFO  BasePage:37 - Sayfanın Url'si doğrudur
+2022-07-07 16:12:39 INFO  BasePage:48 - Sayfanın başlığı doğrudur.
+2022-07-07 16:12:57 INFO  BasePage:37 - Sayfanın Url'si doğrudur
+2022-07-07 16:12:57 INFO  BasePage:48 - Sayfanın başlığı doğrudur.
+2022-07-07 16:13:27 INFO  BasePage:37 - Sayfanın Url'si doğrudur
+2022-07-07 16:13:27 INFO  BasePage:48 - Sayfanın başlığı doğrudur.
+2022-07-07 16:16:09 INFO  BasePage:37 - Sayfanın Url'si doğrudur
+2022-07-07 16:16:09 INFO  BasePage:48 - Sayfanın başlığı doğrudur.
+2022-07-07 16:16:48 INFO  BasePage:37 - Sayfanın Url'si doğrudur
+2022-07-07 16:16:48 INFO  BasePage:48 - Sayfanın başlığı doğrudur.
+2022-07-07 16:18:02 INFO  BasePage:37 - Sayfanın Url'si doğrudur
+2022-07-07 16:18:02 INFO  BasePage:48 - Sayfanın başlığı doğrudur.
+2022-07-07 16:29:42 INFO  BasePage:38 - Sayfanın Url'si doğrudur
+2022-07-07 16:29:42 INFO  BasePage:49 - Sayfanın başlığı doğrudur.
+2022-07-07 16:30:06 INFO  BasePage:38 - Sayfanın Url'si doğrudur
+2022-07-07 16:30:06 INFO  BasePage:49 - Sayfanın başlığı doğrudur.
+2022-07-07 16:30:50 INFO  BasePage:38 - Sayfanın Url'si doğrudur
+2022-07-07 16:30:50 INFO  BasePage:49 - Sayfanın başlığı doğrudur.
+2022-07-07 16:31:39 INFO  BasePage:38 - Sayfanın Url'si doğrudur
+2022-07-07 16:31:39 INFO  BasePage:49 - Sayfanın başlığı doğrudur.
+2022-07-07 16:37:26 INFO  BasePage:38 - Sayfanın Url'si doğrudur
+2022-07-07 16:37:26 INFO  BasePage:49 - Sayfanın başlığı doğrudur.
+2022-07-07 16:42:19 INFO  BasePage:38 - Sayfanın Url'si doğrudur
+2022-07-07 16:42:19 INFO  BasePage:49 - Sayfanın başlığı doğrudur.
+2022-07-07 16:45:50 INFO  BasePage:38 - Sayfanın Url'si doğrudur
+2022-07-07 16:45:50 INFO  BasePage:49 - Sayfanın başlığı doğrudur.
+2022-07-07 16:47:55 INFO  BasePage:38 - Sayfanın Url'si doğrudur
+2022-07-07 16:47:55 INFO  BasePage:49 - Sayfanın başlığı doğrudur.
+2022-07-07 16:52:10 INFO  BasePage:38 - Sayfanın Url'si doğrudur
+2022-07-07 16:52:10 INFO  BasePage:49 - Sayfanın başlığı doğrudur.
+2022-07-07 17:05:07 INFO  BasePage:40 - Sayfanın Url'si doğrudur
+2022-07-07 17:05:07 INFO  BasePage:51 - Sayfanın başlığı doğrudur.
+2022-07-07 17:20:42 INFO  BasePage:40 - Sayfanın Url'si doğrudur
+2022-07-07 17:20:43 INFO  BasePage:51 - Sayfanın başlığı doğrudur.
+2022-07-07 18:04:47 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:04:47 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:05:30 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:05:30 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:06:14 INFO  HomePage:56 - ok
+2022-07-07 18:06:39 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:06:39 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:07:03 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:07:03 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:08:01 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:08:01 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:09:02 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:09:02 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:11:15 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:11:15 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:11:44 INFO  HomePage:56 - ok
+2022-07-07 18:12:34 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:12:34 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:13:35 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:13:35 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:14:04 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:14:04 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:15:35 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:15:35 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:16:14 INFO  HomePage:57 - ok
+2022-07-07 18:17:58 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:17:58 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:19:34 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:19:34 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:19:56 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:19:56 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:20:19 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:20:19 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:21:22 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:21:22 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:34:31 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:34:31 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:35:35 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:35:35 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:36:58 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:36:58 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:37:21 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:37:21 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:38:07 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:38:07 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:38:31 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:38:31 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:40:09 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:40:09 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:40:38 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:40:38 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:41:12 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:41:12 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:43:59 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:43:59 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:44:37 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:44:37 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:45:21 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:45:21 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:46:34 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:46:34 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:49:42 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:49:42 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:50:07 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:50:07 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:50:44 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:50:44 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:52:02 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:52:02 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:54:05 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:54:05 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:55:23 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:55:23 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 18:57:32 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 18:57:32 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 19:00:24 INFO  BasePage:45 - Sayfanın Url'si doğrudur
+2022-07-07 19:00:30 INFO  BasePage:56 - Sayfanın başlığı doğrudur.
+2022-07-07 19:01:20 INFO  BasePage:58 - Sayfanın başlığı doğru değildir.
+2022-07-07 19:04:35 INFO  BasePage:39 - Sayfanın Url'si doğrudur
+2022-07-07 19:04:35 INFO  BasePage:50 - Sayfanın başlığı doğrudur.
+2022-07-07 19:07:42 INFO  BasePage:39 - Sayfanın Url'si doğrudur
+2022-07-07 19:07:42 INFO  BasePage:50 - Sayfanın başlığı doğrudur.
+2022-07-07 19:09:19 INFO  BasePage:39 - Sayfanın Url'si doğrudur
+2022-07-07 19:09:19 INFO  BasePage:50 - Sayfanın başlığı doğrudur.
+2022-07-07 19:10:12 INFO  BasePage:39 - Sayfanın Url'si doğrudur
+2022-07-07 19:10:12 INFO  BasePage:50 - Sayfanın başlığı doğrudur.
+2022-07-07 19:15:14 INFO  BasePage:39 - Sayfanın Url'si doğrudur
+2022-07-07 19:15:14 INFO  BasePage:50 - Sayfanın başlığı doğrudur.
+2022-07-07 19:21:35 INFO  BasePage:39 - Sayfanın Url'si doğrudur
+2022-07-07 19:21:35 INFO  BasePage:50 - Sayfanın başlığı doğrudur.
+2022-07-07 19:22:13 INFO  BasePage:39 - Sayfanın Url'si doğrudur
+2022-07-07 19:22:13 INFO  BasePage:50 - Sayfanın başlığı doğrudur.
+2022-07-07 19:22:53 INFO  BasketPage:63 - ok
+2022-07-07 19:38:24 INFO  BasePage:39 - Sayfanın Url'si doğrudur
+2022-07-07 19:38:24 INFO  BasePage:50 - Sayfanın başlığı doğrudur.
+2022-07-07 19:38:51 INFO  BasketPage:61 - ok
+2022-07-07 19:39:19 INFO  BasePage:39 - Sayfanın Url'si doğrudur
+2022-07-07 19:39:19 INFO  BasePage:50 - Sayfanın başlığı doğrudur.
+2022-07-07 19:39:34 INFO  BasketPage:61 - ok
+2022-07-07 19:40:05 INFO  BasePage:39 - Sayfanın Url'si doğrudur
+2022-07-07 19:40:05 INFO  BasePage:50 - Sayfanın başlığı doğrudur.
+2022-07-07 19:40:20 INFO  BasketPage:61 - ok
+2022-07-07 19:41:57 INFO  BasePage:39 - Sayfanın Url'si doğrudur
+2022-07-07 19:41:57 INFO  BasePage:50 - Sayfanın başlığı doğrudur.
+2022-07-07 19:42:11 INFO  BasketPage:61 - ok
+2022-07-07 19:44:05 INFO  BasePage:39 - Sayfanın Url'si doğrudur
+2022-07-07 19:44:06 INFO  BasePage:50 - Sayfanın başlığı doğrudur.
+2022-07-07 19:44:20 INFO  BasketPage:61 - ok
+2022-07-07 19:45:39 INFO  BasePage:39 - Sayfanın Url'si doğrudur
+2022-07-07 19:45:39 INFO  BasePage:50 - Sayfanın başlığı doğrudur.
+2022-07-07 19:45:54 INFO  BasketPage:61 - ok
+2022-07-07 19:47:29 INFO  BasePage:39 - Sayfanın Url'si doğrudur
+2022-07-07 19:47:29 INFO  BasePage:50 - Sayfanın başlığı doğrudur.
+2022-07-07 19:47:44 INFO  BasketPage:61 - ok
+2022-07-07 19:54:03 INFO  BasePage:39 - Sayfanın Url'si doğrudur
+2022-07-07 19:54:03 INFO  BasePage:50 - Sayfanın başlığı doğrudur.
+2022-07-07 19:54:18 INFO  BasketPage:61 - ok
+2022-07-07 19:55:57 INFO  BasePage:39 - Sayfanın Url'si doğrudur
+2022-07-07 19:55:57 INFO  BasePage:50 - Sayfanın başlığı doğrudur.
+2022-07-07 19:56:12 INFO  BasketPage:61 - ok
+2022-07-07 19:57:32 INFO  BasePage:39 - Sayfanın Url'si doğrudur
+2022-07-07 19:57:32 INFO  BasePage:50 - Sayfanın başlığı doğrudur.
+2022-07-07 19:57:46 INFO  BasketPage:61 - ok
+2022-07-07 20:00:15 INFO  BasePage:39 - Sayfanın Url'si doğrudur
+2022-07-07 20:00:15 INFO  BasePage:50 - Sayfanın başlığı doğrudur.
+2022-07-07 20:00:31 INFO  BasketPage:61 - ok
+2022-07-07 20:01:41 INFO  BasePage:39 - Sayfanın Url'si doğrudur
+2022-07-07 20:01:41 INFO  BasePage:50 - Sayfanın başlığı doğrudur.
+2022-07-07 20:01:56 INFO  BasketPage:61 - ok
+2022-07-07 20:03:17 INFO  BasePage:39 - Sayfanın Url'si doğrudur
+2022-07-07 20:03:17 INFO  BasePage:50 - Sayfanın başlığı doğrudur.
+2022-07-07 20:03:32 INFO  BasketPage:61 - ok
+2022-07-07 20:04:14 INFO  BasePage:39 - Sayfanın Url'si doğrudur
+2022-07-07 20:04:14 INFO  BasePage:50 - Sayfanın başlığı doğrudur.
+2022-07-07 20:04:29 INFO  BasketPage:61 - ok
+2022-07-07 20:05:37 INFO  BasePage:39 - Sayfanın Url'si doğrudur
+2022-07-07 20:05:37 INFO  BasePage:50 - Sayfanın başlığı doğrudur.
+2022-07-07 20:05:51 INFO  BasketPage:61 - ok
+2022-07-07 20:07:07 INFO  BasePage:39 - Sayfanın Url'si doğrudur
+2022-07-07 20:07:07 INFO  BasePage:50 - Sayfanın başlığı doğrudur.
+2022-07-07 20:07:22 INFO  BasketPage:61 - ok
+2022-07-07 20:07:54 INFO  BasePage:39 - Sayfanın Url'si doğrudur
+2022-07-07 20:07:54 INFO  BasePage:50 - Sayfanın başlığı doğrudur.
+2022-07-07 20:08:08 INFO  BasketPage:61 - ok
+2022-07-07 20:08:46 INFO  BasePage:39 - Sayfanın Url'si doğrudur
+2022-07-07 20:08:46 INFO  BasePage:50 - Sayfanın başlığı doğrudur.
+2022-07-07 20:09:01 INFO  BasketPage:61 - ok
+2022-07-07 20:10:05 INFO  BasePage:39 - Sayfanın Url'si doğrudur
+2022-07-07 20:10:05 INFO  BasePage:50 - Sayfanın başlığı doğrudur.
+2022-07-07 20:10:20 INFO  BasketPage:61 - ok
+2022-07-07 20:11:31 INFO  BasePage:39 - Sayfanın Url'si doğrudur
+2022-07-07 20:11:31 INFO  BasePage:50 - Sayfanın başlığı doğrudur.
+2022-07-07 20:11:45 INFO  BasketPage:61 - ok
+2022-07-07 20:12:46 INFO  BasePage:39 - Sayfanın Url'si doğrudur
+2022-07-07 20:12:46 INFO  BasePage:50 - Sayfanın başlığı doğrudur.
+2022-07-07 20:13:00 INFO  BasketPage:61 - ok
+2022-07-07 20:14:16 INFO  BasePage:39 - Sayfanın Url'si doğrudur
+2022-07-07 20:14:16 INFO  BasePage:50 - Sayfanın başlığı doğrudur.
+2022-07-07 20:14:31 INFO  BasketPage:61 - ok
+2022-07-07 20:18:18 INFO  BasePage:41 - Sayfanın Url'si doğrudur
+2022-07-07 20:18:18 INFO  BasePage:62 - Sayfanın başlığı doğrudur.
+2022-07-07 20:18:33 INFO  BasketPage:61 - ok
+2022-07-07 20:19:39 INFO  BasePage:41 - Sayfanın Url'si doğrudur
+2022-07-07 20:19:39 INFO  BasePage:62 - Sayfanın başlığı doğrudur.
+2022-07-07 20:19:53 INFO  BasketPage:61 - ok
+2022-07-07 20:47:57 INFO  BasePage:37 - Sayfanın Url'si doğrudur
+2022-07-07 20:47:57 INFO  BasePage:58 - Sayfanın başlığı doğrudur.
+2022-07-07 20:48:12 INFO  BasketPage:57 - ok
+2022-07-07 21:29:33 INFO  BasePage:38 - Sayfanın Url'si doğrudur
+2022-07-07 21:29:33 INFO  BasePage:62 - Sayfanın başlığı doğrudur.
+2022-07-07 21:29:41 INFO  BasketPage:57 - ok
+2022-07-07 21:49:47 INFO  BasePage:38 - Sayfanın Url'si doğrudur
+2022-07-07 21:49:47 INFO  BasePage:62 - Sayfanın başlığı doğrudur.
+2022-07-07 21:49:55 INFO  BasketPage:57 - ok
+2022-07-07 22:08:53 INFO  BasePage:38 - Sayfanın Url'si doğrudur
+2022-07-07 22:08:53 INFO  BasePage:63 - Sayfanın başlığı doğrudur.
+2022-07-07 22:08:57 INFO  BasePage:53 - [[ChromeDriver: chrome on WINDOWS (8cf746e5f2bc9d675257b8c58395d398)] -> id: button-cart] ekranda görüldü.
+2022-07-07 22:09:00 INFO  BasketPage:64 - Sepete eklenen ürün sayısı doğru bir şekilde eklendi.
+2022-07-07 22:09:02 INFO  BasePage:53 - [[ChromeDriver: chrome on WINDOWS (8cf746e5f2bc9d675257b8c58395d398)] -> id: js-cart] ekranda görüldü.
+2022-07-07 22:09:03 INFO  BasePage:53 - [[ChromeDriver: chrome on WINDOWS (8cf746e5f2bc9d675257b8c58395d398)] -> xpath: //*[@class="js-cart-update-product"]/input[@name="quantity"]] ekranda görüldü.
+2022-07-07 22:09:05 INFO  BasePage:53 - [[ChromeDriver: chrome on WINDOWS (8cf746e5f2bc9d675257b8c58395d398)] -> xpath: //*[@id="swal2-title" and text()="Sepetiniz güncelleniyor!"]] ekranda görüldü.
+2022-07-07 22:09:07 INFO  BasePage:53 - [[ChromeDriver: chrome on WINDOWS (8cf746e5f2bc9d675257b8c58395d398)] -> xpath: //*[@id="cart-items-empty"]] ekranda görüldü.
+2022-07-07 22:10:15 INFO  BasePage:38 - Sayfanın Url'si doğrudur
+2022-07-07 22:10:15 INFO  BasePage:63 - Sayfanın başlığı doğrudur.
+2022-07-07 22:10:18 INFO  BasePage:53 - a ekranda görüldü.
+2022-07-07 22:10:21 INFO  BasketPage:64 - Sepete eklenen ürün sayısı doğru bir şekilde eklendi.
+2022-07-07 22:10:23 INFO  BasePage:53 - a ekranda görüldü.
+2022-07-07 22:10:24 INFO  BasePage:53 - input ekranda görüldü.
+2022-07-07 22:10:26 INFO  BasePage:53 - h2 ekranda görüldü.
+2022-07-07 22:10:28 INFO  BasePage:53 - div ekranda görüldü.
+2022-07-07 22:12:51 INFO  BasePage:38 - Sayfanın Url'si doğrudur
+2022-07-07 22:12:51 INFO  BasePage:63 - Sayfanın başlığı doğrudur.
+2022-07-07 22:12:55 INFO  BasePage:53 - a ekranda görüldü.
+2022-07-07 22:12:58 INFO  BasketPage:64 - Sepete eklenen ürün sayısı doğru bir şekilde eklendi.
+2022-07-07 22:13:03 INFO  BasePage:53 - a ekranda görüldü.
+2022-07-07 22:13:03 INFO  BasePage:53 - input ekranda görüldü.
+2022-07-07 22:13:13 INFO  BasePage:53 - h2 ekranda görüldü.
+2022-07-07 22:13:18 INFO  BasePage:53 - div ekranda görüldü.
+2022-07-07 22:14:01 INFO  BasePage:38 - Sayfanın Url'si doğrudur
+2022-07-07 22:14:01 INFO  BasePage:63 - Sayfanın başlığı doğrudur.
+2022-07-07 22:14:04 INFO  BasePage:53 - a ekranda görüldü.
+2022-07-07 22:14:08 INFO  BasketPage:64 - Sepete eklenen ürün sayısı doğru bir şekilde eklendi.
+2022-07-07 22:14:13 INFO  BasePage:53 - a ekranda görüldü.
+2022-07-07 22:14:13 INFO  BasePage:53 - input ekranda görüldü.
+2022-07-07 22:14:20 INFO  BasePage:53 - h2 ekranda görüldü.
+2022-07-07 22:14:25 INFO  BasePage:53 - div ekranda görüldü.
+2022-07-07 22:14:52 INFO  BasePage:38 - Sayfanın Url'si doğrudur
+2022-07-07 22:14:52 INFO  BasePage:63 - Sayfanın başlığı doğrudur.
+2022-07-07 22:14:56 INFO  BasePage:53 - a ekranda görüldü.
+2022-07-07 22:14:59 INFO  BasketPage:64 - Sepete eklenen ürün sayısı doğru bir şekilde eklendi.
+2022-07-07 22:15:04 INFO  BasePage:53 - a ekranda görüldü.
+2022-07-07 22:15:08 INFO  BasePage:53 - input ekranda görüldü.
+2022-07-07 22:15:15 INFO  BasePage:53 - h2 ekranda görüldü.
+2022-07-07 22:15:20 INFO  BasePage:53 - div ekranda görüldü.
+2022-08-02 23:13:55 INFO  BasePage:38 - Sayfanın Url'si doğrudur
+2022-08-02 23:13:55 INFO  BasePage:63 - Sayfanın başlığı doğrudur.
+2022-08-02 23:13:59 INFO  BasePage:53 - a ekranda görüldü.
+2022-08-02 23:14:02 INFO  BasketPage:64 - Sepete eklenen ürün sayısı doğru bir şekilde eklendi.
+2022-08-02 23:14:07 INFO  BasePage:53 - a ekranda görüldü.
+2022-08-02 23:14:10 INFO  BasePage:53 - input ekranda görüldü.
+2022-08-02 23:14:17 INFO  BasePage:53 - h2 ekranda görüldü.
+2022-08-02 23:14:23 INFO  BasePage:53 - div ekranda görüldü.
